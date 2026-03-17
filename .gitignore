@@ -1,2 +1,8 @@
 __pycache__/
 .env
+node_modules/
+web/dist/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.DS_Store
